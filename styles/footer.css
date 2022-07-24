@@ -34,3 +34,10 @@
   transform: rotate(45deg);
  }
 
+ .footer-end li {
+  color: white;
+  text-align: left;
+  font-size: 15px;
+
+ }
+
